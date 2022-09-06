@@ -143,8 +143,9 @@ appR:
 # Make all the targets.
 all:
 	make clean
-	make dLib
-	make app
-	./$(appName)
+	#make hilos$(binaryMakeFormat)R
+	#make key_event$(binaryMakeFormat)R
+	#make lag$(binaryMakeFormat)R
+	make prag$(binaryMakeFormat)R
 
 .PHONY: cleanObjs cleanAllSLib cleanAllDLib clean sLib dLib app appN appR appNR all
