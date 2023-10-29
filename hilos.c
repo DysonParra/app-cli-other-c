@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 }
 
 /**
- * TODO: Definición de {@code runDialogOne}.
+ * TODO: Description of {@code runDialogOne}.
  */
 static void runDialogOne() {
     for (int i = 0; i < 50; i++)
@@ -67,7 +67,7 @@ static void runDialogOne() {
 }
 
 /**
- * TODO: Definición de {@code runDialogTwo}.
+ * TODO: Description of {@code runDialogTwo}.
  */
 static void runDialogTwo() {
     // WaitForSingleObject(tPrimary, INFINITE);
